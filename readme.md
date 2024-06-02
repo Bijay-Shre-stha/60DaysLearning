@@ -9,3 +9,13 @@
 3. **Variables & Data Types**
 4. **Lists**
 5. **Operators**
+
+## DAY 2: 2nd June 2024
+
+### Overview
+
+1. **String Formatting**
+2. **Basic String Operations**
+3. **Conditions**
+4. **Loops**
+5. **Functions**
