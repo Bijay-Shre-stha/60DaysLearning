@@ -19,3 +19,11 @@
 3. **Conditions**
 4. **Loops**
 5. **Functions**
+
+## DAY 3: 3rd June 2024
+
+### Overview
+
+1. **Classes & Objects**
+2. **Dictionaries**
+3. **Modules & Packages**
