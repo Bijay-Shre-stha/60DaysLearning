@@ -27,3 +27,10 @@
 1. **Classes & Objects**
 2. **Dictionaries**
 3. **Modules & Packages**
+
+## DAY 4: 4th June 2024
+
+### Overview
+
+1. **File Handling**
+2. **Exception Handling**
