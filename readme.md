@@ -34,3 +34,11 @@
 
 1. **File Handling**
 2. **Exception Handling**
+
+## DAY 5: 5th June 2024
+
+### Overview
+
+1. **Inheritance**
+2. **Polymorphism**
+3. **Encapsulation**
