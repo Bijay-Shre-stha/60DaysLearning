@@ -42,3 +42,12 @@
 1. **Inheritance**
 2. **Polymorphism**
 3. **Encapsulation**
+
+## DAY 6: 6th June 2024
+
+### Overview
+
+1. **Using List as Stack**
+2. **Using List as Queue**
+3. **List Comprehensions**
+4. **Nested List Comprehensions**
