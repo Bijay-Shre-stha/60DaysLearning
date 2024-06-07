@@ -51,3 +51,10 @@
 2. **Using List as Queue**
 3. **List Comprehensions**
 4. **Nested List Comprehensions**
+
+## DAY 7: 7th June 2024
+
+### Overview
+
+1. **Tuples**
+2. **Sets**
