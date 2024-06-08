@@ -58,3 +58,9 @@
 
 1. **Tuples**
 2. **Sets**
+
+## DAY 8: 8th June 2024
+
+### Overview
+
+1. **Project: BMI Calculator**

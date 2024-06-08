@@ -1,0 +1,6 @@
+Name: John Doe
+Weight: 65.0 kg
+Height: 1.83 m
+BMI: 19.41
+Category: Normal
+
