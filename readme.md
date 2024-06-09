@@ -64,3 +64,12 @@
 ### Overview
 
 1. **Project: BMI Calculator**
+
+## DAY 9: 9th June 2024
+
+### Overview
+
+1. **Lambda Functions**
+2. **Map**
+3. **Filter**
+4. **Reduce**
