@@ -73,3 +73,11 @@
 2. **Map**
 3. **Filter**
 4. **Reduce**
+
+## DAY 10: 10th June 2024
+
+### Overview
+
+1. **Generators**
+2. **Decorators**
+3. **Closures**
