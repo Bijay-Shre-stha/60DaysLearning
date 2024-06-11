@@ -81,3 +81,11 @@
 1. **Generators**
 2. **Decorators**
 3. **Closures**
+
+## DAY 11: 11th June 2024
+
+### Overview
+
+1. **Multiple Function Arguments**
+2. **Partial Functions**
+3. **Global & Local Variables**
