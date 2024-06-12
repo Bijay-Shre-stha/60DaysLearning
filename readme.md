@@ -89,3 +89,9 @@
 1. **Multiple Function Arguments**
 2. **Partial Functions**
 3. **Global & Local Variables**
+
+## DAY 12: 12th June 2024
+
+### Overview
+
+1. **Project: Weather Desktop - Notifier**
