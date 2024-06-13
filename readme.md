@@ -95,3 +95,10 @@
 ### Overview
 
 1. **Project: Weather Desktop - Notifier**
+
+## DAY 13: 13th June 2024
+
+### Overview
+
+1. **Code Introspection**
+2. **Serialization**
