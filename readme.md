@@ -102,3 +102,9 @@
 
 1. **Code Introspection**
 2. **Serialization**
+
+## DAY 14: 14th June 2024
+
+### Overview
+
+1. **Project: Website Blocker**
