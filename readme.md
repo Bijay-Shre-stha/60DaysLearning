@@ -129,3 +129,9 @@
 1. **Multiprocessing**
 2. **Shared Memory Multiprocessing**
 3. **Server Process Multiprocessing**
+
+## DAY 18: 18th June 2024
+
+### Overview
+
+1. **Numpy**
