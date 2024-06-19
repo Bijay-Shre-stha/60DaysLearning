@@ -135,3 +135,11 @@
 ### Overview
 
 1. **Numpy**
+
+## DAY 19: 19th June 2024
+
+### Overview
+
+1. **Numpy: Data Types**
+2. **Numpy: Copy vs View**
+3. **Numpy: Array Shape & Reshape**
