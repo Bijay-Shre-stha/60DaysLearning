@@ -143,3 +143,11 @@
 1. **Numpy: Data Types**
 2. **Numpy: Copy vs View**
 3. **Numpy: Array Shape & Reshape**
+
+## DAY 20: 20th June 2024
+
+### Overview
+
+1. **Array Iterating**
+2. **Array Join**
+3. **Array Split**
