@@ -151,3 +151,12 @@
 1. **Array Iterating**
 2. **Array Join**
 3. **Array Split**
+
+## DAY 21: 21st June 2024
+
+### Overview
+
+1. **Implementation of Sorting Function**
+2. **Array Search**
+3. **Array Sort**
+4. **Array Filter**
