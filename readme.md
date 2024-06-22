@@ -160,3 +160,10 @@
 2. **Array Search**
 3. **Array Sort**
 4. **Array Filter**
+
+## DAY 22: 22nd June 2024
+
+### Overview
+
+1. **Random**
+2. **Data Distribution**
