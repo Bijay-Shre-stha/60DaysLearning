@@ -167,3 +167,10 @@
 
 1. **Random**
 2. **Data Distribution**
+
+## DAY 23: 23rd June 2024
+
+### Overview
+
+1. **Random Permutations**
+2. **Seaborn**
