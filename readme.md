@@ -174,3 +174,10 @@
 
 1. **Random Permutations**
 2. **Seaborn**
+
+## DAY 24: 24th June 2024
+
+### Overview
+
+1. **Normal Distribution**
+2. **Binomial Distribution**
