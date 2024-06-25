@@ -181,3 +181,10 @@
 
 1. **Normal Distribution**
 2. **Binomial Distribution**
+
+## DAY 25: 25th June 2024
+
+### Overview
+
+1. **Poisson Distribution**
+2. **Uniform Distribution**
