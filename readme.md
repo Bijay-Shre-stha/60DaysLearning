@@ -188,3 +188,10 @@
 
 1. **Poisson Distribution**
 2. **Uniform Distribution**
+
+## DAY 26: 26th June 2024
+
+### Overview
+
+1. **Logistic Distribution**
+2. **Multinomial Distribution**
