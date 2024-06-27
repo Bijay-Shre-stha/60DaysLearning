@@ -195,3 +195,10 @@
 
 1. **Logistic Distribution**
 2. **Multinomial Distribution**
+
+## DAY 27: 27th June 2024
+
+### Overview
+
+1. **Exponential Distribution**
+2. **Chi Square Distribution**
