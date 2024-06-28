@@ -202,3 +202,10 @@
 
 1. **Exponential Distribution**
 2. **Chi Square Distribution**
+
+## DAY 28: 28th June 2024
+
+### Overview
+
+1. **Rayleigh Distribution**
+2. **Pareto Distribution**
