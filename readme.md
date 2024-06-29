@@ -209,3 +209,9 @@
 
 1. **Rayleigh Distribution**
 2. **Pareto Distribution**
+
+## DAY 29: 29th June 2024
+
+### Overview
+
+1. **Shorting Visualization**
