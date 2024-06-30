@@ -215,3 +215,9 @@
 ### Overview
 
 1. **Shorting Visualization**
+
+## DAY 30: 30th June 2024
+
+### Overview
+
+1. **Project: Data Visualization**
