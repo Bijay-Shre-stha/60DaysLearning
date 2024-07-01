@@ -221,3 +221,9 @@
 ### Overview
 
 1. **Project: Data Visualization**
+
+## DAY 31: 1st July 2024
+
+### Overview
+
+1. **Zipf Distribution**
