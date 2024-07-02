@@ -227,3 +227,11 @@
 ### Overview
 
 1. **Zipf Distribution**
+
+## DAY 32: 2nd July 2024
+
+### Overview
+
+1. **ufunc Intro**
+2. **ufunc Create Function**
+3. **ufunc Simple Arithmetic**
