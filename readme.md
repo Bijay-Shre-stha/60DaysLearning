@@ -235,3 +235,11 @@
 1. **ufunc Intro**
 2. **ufunc Create Function**
 3. **ufunc Simple Arithmetic**
+
+## DAY 33: 3rd July 2024
+
+### Overview
+
+1. **ufunc Rounding Decimals**
+2. **ufunc Logs**
+3. **ufunc Summations**
