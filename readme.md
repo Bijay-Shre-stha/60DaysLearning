@@ -243,3 +243,12 @@
 1. **ufunc Rounding Decimals**
 2. **ufunc Logs**
 3. **ufunc Summations**
+
+## DAY 34: 4th July 2024
+
+### Overview
+
+1. **ufunc Products**
+2. **ufunc Differences**
+3. **ufunc Finding LCM**
+4. **ufunc Finding GCD**
