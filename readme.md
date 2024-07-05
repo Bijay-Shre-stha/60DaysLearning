@@ -252,3 +252,11 @@
 2. **ufunc Differences**
 3. **ufunc Finding LCM**
 4. **ufunc Finding GCD**
+
+## DAY 35: 5th July 2024
+
+### Overview
+
+1. **ufunc Trigonometric Functions**
+2. **ufunc Hyperbolic Functions**
+3. **ufunc Set Operations**
