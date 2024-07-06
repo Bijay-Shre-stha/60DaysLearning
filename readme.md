@@ -260,3 +260,15 @@
 1. **ufunc Trigonometric Functions**
 2. **ufunc Hyperbolic Functions**
 3. **ufunc Set Operations**
+
+## DAY 36: 6th July 2024
+
+### Overview
+
+1. **Power Workshop - Cyber Security**
+
+   - Introduction to Infosec
+   - Risk Management
+   - Role of Penetration Testers
+   - Red Team vs. Blue Team
+   - Getting Started with a Pentest Distro
