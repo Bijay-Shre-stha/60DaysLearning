@@ -272,3 +272,15 @@
    - Role of Penetration Testers
    - Red Team vs. Blue Team
    - Getting Started with a Pentest Distro
+
+## DAY 37: 7th July 2024
+
+### Overview
+
+1. **Power Workshop - Cyber Security**
+
+   - Cryptography: An Introduction
+   - Hashing
+   - Example: Caesar Cipher and Brute Force Decryption
+   - Example: HTTPS and Certificates
+   - Conclusion
