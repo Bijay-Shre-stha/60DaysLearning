@@ -284,3 +284,11 @@
    - Example: Caesar Cipher and Brute Force Decryption
    - Example: HTTPS and Certificates
    - Conclusion
+
+## DAY 38: 8th July 2024
+
+### Overview
+
+1. **Pandas**
+2. **Pandas: Series**
+3. **Pandas: DataFrames**
