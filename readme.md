@@ -292,3 +292,11 @@
 1. **Pandas**
 2. **Pandas: Series**
 3. **Pandas: DataFrames**
+
+## DAY 39: 9th July 2024
+
+### Overview
+
+1. **Pandas: Read CSV**
+2. **Pandas: Read JSON**
+3. **Pandas: Analyzing Data**
