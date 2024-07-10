@@ -300,3 +300,9 @@
 1. **Pandas: Read CSV**
 2. **Pandas: Read JSON**
 3. **Pandas: Analyzing Data**
+
+## DAY 40: 10th July 2024
+
+### Overview
+
+1. **Project: Analyzing COVID-19 Data**
