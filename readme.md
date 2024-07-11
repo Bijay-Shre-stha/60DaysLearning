@@ -306,3 +306,13 @@
 ### Overview
 
 1. **Project: Analyzing COVID-19 Data**
+
+## DAY 41: 11th July 2024
+
+### Overview
+
+- **Cleaning Data**
+- **Cleaning Empty Cells**
+- **Cleaning Wrong Format**
+- **Cleaning Wrong Data**
+- **Removing Duplicates**
