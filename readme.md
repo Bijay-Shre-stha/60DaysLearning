@@ -316,3 +316,9 @@
 - **Cleaning Wrong Format**
 - **Cleaning Wrong Data**
 - **Removing Duplicates**
+
+## DAY 42: 12th July 2024
+
+### Overview
+
+1. **Titanic - Machine Learning from Disaster**
