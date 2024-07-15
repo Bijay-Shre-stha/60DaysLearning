@@ -334,3 +334,9 @@
 ### Overview
 
 1. **Titanic - Machine Learning from Disaster With Modeling**
+
+## DAY 45: 15th July 2024
+
+### Overview
+
+1. **Project: Credit Card Fraud Detection**
