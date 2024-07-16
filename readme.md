@@ -340,3 +340,9 @@
 ### Overview
 
 1. **Project: Credit Card Fraud Detection**
+
+## DAY 46: 16th July 2024
+
+### Overview
+
+1. **Machine Learning for Everybody – Full Course, (Day : 1)**
