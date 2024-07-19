@@ -80,7 +80,7 @@ Support Vector Machine (SVM) is a type of supervised learning algorithm used for
 - **Kernel**: A kernel is a function that maps the input data into a higher-dimensional space to make it linearly separable.
 ![SVM](image-4.png)
 
-# Nerual Network
+# Neural Network
 
 A neural network is a type of machine learning model that is inspired by the structure and function of the human brain. It consists of layers of interconnected nodes (neurons) that process input data and produce output data.
 
