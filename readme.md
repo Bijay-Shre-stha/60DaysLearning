@@ -358,3 +358,9 @@
 ### Overview
 
 1. **Machine Learning for Everybody – Full Course, (Day : 3)**
+
+## DAY 49: 19th July 2024
+
+### Overview
+
+1. **Machine Learning for Everybody – Full Course, (Day : 4)**
