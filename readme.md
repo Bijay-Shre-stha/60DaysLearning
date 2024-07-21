@@ -370,3 +370,9 @@
 ### Overview
 
 1. **Machine Learning for Everybody – Full Course, (Day : 5)**
+
+## DAY 51: 21st July 2024
+
+### Overview
+
+1. **Machine Learning for Everybody – Full Course, (Day : 6)**
