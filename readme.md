@@ -388,3 +388,9 @@
 ### Overview
 
 1. **Machine Learning for Everybody – Full Course, (Day : 8)**
+
+## DAY 54: 24th July 2024
+
+### Overview
+
+1. **Project: Simple Weather Forecast using Naive Bayes Algorithm**
