@@ -394,3 +394,9 @@
 ### Overview
 
 1. **Project: Simple Weather Forecast using Naive Bayes Algorithm**
+
+## DAY 55: 25th July 2024
+
+### Overview
+
+1. **Neural Networks**
