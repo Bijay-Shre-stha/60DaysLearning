@@ -406,3 +406,9 @@
 ### Overview
 
 1. **Neural Networks**
+
+## DAY 57: 27th July 2024
+
+### Overview
+
+1. **Neural Networks with Desired Activation Output & Cost Computation**
