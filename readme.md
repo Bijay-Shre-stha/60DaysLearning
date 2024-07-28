@@ -412,3 +412,9 @@
 ### Overview
 
 1. **Neural Networks with Desired Activation Output & Cost Computation**
+
+## DAY 58: 28th July 2024
+
+### Overview
+
+1. **Neural Networks: Gradient Descent**
