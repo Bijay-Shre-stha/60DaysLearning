@@ -418,3 +418,9 @@
 ### Overview
 
 1. **Neural Networks: Gradient Descent**
+
+## DAY 59: 29th July 2024
+
+### Overview
+
+1. **Neural Networks: Backpropagation Algorithm**
